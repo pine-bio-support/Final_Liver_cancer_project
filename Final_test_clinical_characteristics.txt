@@ -1,0 +1,22 @@
+id	vital_status	days_to_death	days_to_last_followup	Stage	pathologic_stage	radiation_therapy	race	ethnicity
+TCGA-UB-A7ME	Alive	NA	486	Stage1	stage i	no	asian	not hispanic or latino
+TCGA-DD-A4NL	Alive	NA	1711	Stage1	stage i	no	white	not hispanic or latino
+TCGA-DD-A11C	Alive	NA	662	Stage1	stage i	no	white	not hispanic or latino
+TCGA-2Y-A9H7	Alive	NA	1168	Stage1	stage i	no	white	not hispanic or latino
+TCGA-RC-A7S9	Alive	NA	640	Stage1	stage i	no	asian	not hispanic or latino
+TCGA-G3-AAV2	Alive	NA	372	Stage1	stage i	no	white	not hispanic or latino
+TCGA-DD-A1EI	Alive	NA	183	Stage1	stage i	NA	asian	not hispanic or latino
+TCGA-FV-A496	Alive	NA	10	Stage1	stage i	NA	white	not hispanic or latino
+TCGA-DD-AADL	Alive	NA	636	Stage1	stage i	no	asian	not hispanic or latino
+TCGA-ZS-A9CF	Alive	NA	2412	Stage2	stage ii	no	white	not hispanic or latino
+TCGA-ZS-A9CFa	Alive	NA	2412	Stage2	stage ii	no	white	not hispanic or latino
+TCGA-RC-A6M3	Alive	NA	0	Stage2	stage ii	NA	american indian or alaska native	NA
+TCGA-DD-AACJ	Alive	NA	2102	Stage2	stage ii	no	asian	not hispanic or latino
+TCGA-DD-AACG	Dead	469	NA	Stage2	stage ii	no	asian	not hispanic or latino
+TCGA-UB-A7MF	Dead	214	NA	Stage3	stage iiia	no	white	not hispanic or latino
+TCGA-CC-A9FU	Alive	NA	0	Stage3	stage iiia	NA	asian	not hispanic or latino
+TCGA-DD-A3A4	Dead	612	NA	Stage3	stage iiia	no	white	not hispanic or latino
+TCGA-DD-AAD6	Alive	NA	672	Stage3	stage iiia	no	asian	not hispanic or latino
+TCGA-DD-A115	Dead	2542	NA	Stage3	stage iiia	no	white	NA
+TCGA-DD-A3A9	Dead	931	NA	Stage4	stage ivb	NA	white	not hispanic or latino
+TCGA-DD-A119	Dead	223	NA	Stage4	stage iv	NA	asian	not hispanic or latino

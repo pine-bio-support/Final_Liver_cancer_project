@@ -1,0 +1,51 @@
+id	vital_status	days_to_death	days_to_last_followup	Stage	pathologic_stage	race	ethnicity	gender
+TCGA-DD-AACL	Dead	107	NA	Stage1	stage i	asian	not hispanic or latino	female
+TCGA-WJ-A86L	Alive	NA	345	Stage1	stage i	white	not hispanic or latino	female
+TCGA-EP-A2KC	Dead	19	NA	Stage1	stage i	black or african american	not hispanic or latino	male
+TCGA-K7-A5RF	Alive	NA	631	Stage1	stage i	white	not hispanic or latino	male
+TCGA-G3-AAUZ	Alive	NA	480	Stage1	stage i	NA	hispanic or latino	male
+TCGA-DD-AAD1	Alive	NA	564	Stage1	stage i	asian	not hispanic or latino	female
+TCGA-BD-A3EP	Alive	NA	409	Stage1	stage i	black or african american	not hispanic or latino	female
+TCGA-DD-AAE6	Alive	NA	141	Stage1	stage i	asian	not hispanic or latino	female
+TCGA-DD-AADJ	Alive	NA	1066	Stage1	stage i	asian	not hispanic or latino	female
+TCGA-DD-AAVZ	Alive	NA	1900	Stage1	stage i	asian	not hispanic or latino	male
+TCGA-2Y-A9GX	Alive	NA	2442	Stage1	stage i	white	not hispanic or latino	male
+TCGA-DD-A1EG	Dead	1372	NA	Stage1	stage i	white	not hispanic or latino	male
+TCGA-DD-AAE2	Alive	NA	638	Stage1	stage i	asian	not hispanic or latino	male
+TCGA-XR-A8TC	Alive	NA	1339	Stage1	stage i	white	hispanic or latino	female
+TCGA-FV-A2QR	Dead	581	NA	Stage1	stage i	white	not hispanic or latino	male
+TCGA-DD-AAD2	Alive	NA	658	Stage1	stage i	asian	not hispanic or latino	male
+TCGA-FV-A2QQ	Alive	NA	729	Stage1	stage i	white	not hispanic or latino	male
+TCGA-K7-A6G5	Alive	NA	512	Stage1	stage i	white	not hispanic or latino	male
+TCGA-DD-A4NN	Dead	899	NA	Stage1	stage i	white	not hispanic or latino	female
+TCGA-2Y-A9HB	Alive	NA	260	Stage1	stage i	NA	hispanic or latino	male
+TCGA-ED-A7PX	Alive	NA	6	Stage2	stage ii	asian	not hispanic or latino	female
+TCGA-DD-AACH	Dead	195	NA	Stage2	stage ii	asian	not hispanic or latino	male
+TCGA-ZS-A9CD	Dead	1386	NA	Stage2	stage ii	white	not hispanic or latino	male
+TCGA-5R-AA1C	Alive	NA	520	Stage2	stage ii	white	not hispanic or latino	male
+TCGA-FV-A3I0	Alive	NA	848	Stage2	stage ii	white	not hispanic or latino	female
+TCGA-ED-A5KG	Alive	NA	854	Stage2	stage ii	asian	not hispanic or latino	female
+TCGA-CC-5258	Dead	129	NA	Stage2	stage ii	asian	not hispanic or latino	male
+TCGA-DD-AAVU	Alive	NA	2202	Stage2	stage ii	asian	not hispanic or latino	male
+TCGA-4R-AA8I	Dead	262	NA	Stage2	stage ii	white	not hispanic or latino	male
+TCGA-KR-A7K7	Alive	NA	951	Stage2	stage ii	white	NA	female
+TCGA-K7-AAU7	Alive	NA	359	Stage2	stage ii	white	not hispanic or latino	male
+TCGA-5C-A9VG	Alive	NA	328	Stage2	stage ii	white	not hispanic or latino	male
+TCGA-UB-A7MA	Alive	NA	848	Stage2	stage ii	white	not hispanic or latino	female
+TCGA-CC-A9FS	Alive	NA	211	Stage2	stage ii	asian	not hispanic or latino	male
+TCGA-DD-A1EH	Alive	NA	1495	Stage3	stage iii	white	not hispanic or latino	male
+TCGA-DD-A39W	Dead	827	NA	Stage3	stage iii	white	not hispanic or latino	female
+TCGA-CC-A7IE	Dead	217	NA	Stage3	stage iiia	asian	not hispanic or latino	male
+TCGA-BC-4073	Alive	NA	849	Stage3	stage iiia	white	not hispanic or latino	male
+TCGA-CC-A7IH	Alive	NA	365	Stage3	stage iiia	asian	not hispanic or latino	male
+TCGA-CC-A3MA	Dead	303	NA	Stage3	stage iiia	asian	not hispanic or latino	male
+TCGA-BC-A216	Alive	NA	1351	Stage3	stage iiia	white	NA	female
+TCGA-CC-A7II	Alive	NA	399	Stage3	stage iiia	asian	not hispanic or latino	male
+TCGA-ED-A82E	Alive	NA	408	Stage3	stage iiia	asian	not hispanic or latino	female
+TCGA-LG-A9QD	Alive	NA	366	Stage3	stage iiia	white	hispanic or latino	male
+TCGA-DD-A4NE	Dead	660	NA	Stage3	stage iiia	white	hispanic or latino	female
+TCGA-G3-A25T	Alive	NA	1553	Stage3	stage iiia	white	not hispanic or latino	female
+TCGA-ED-A7XO	Alive	NA	427	Stage3	stage iiia	asian	not hispanic or latino	male
+TCGA-BW-A5NP	Alive	NA	0	Stage4	stage iv	white	hispanic or latino	female
+TCGA-DD-A119	Dead	223	NA	Stage4	stage iv	asian	not hispanic or latino	male
+TCGA-DD-A1EK	Dead	558	NA	Stage4	stage ivb	white	not hispanic or latino	female
